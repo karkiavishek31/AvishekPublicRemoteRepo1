@@ -3,4 +3,4 @@
 --
 ### This was edited by colaborator
 --
-### This was ex 6 in local editor
+### This was ex 6 for conflict resolution
