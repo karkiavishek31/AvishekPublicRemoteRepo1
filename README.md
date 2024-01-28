@@ -3,4 +3,4 @@
 --
 ### This was edited by colaborator
 --
-### This was ex 5 to demonstrate git fetch
+### This was ex 6 in local editor
